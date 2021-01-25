@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.task {
+  align-items: center;
+  background-color: beige;
+  border: 2px;
+}
