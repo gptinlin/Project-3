@@ -1,5 +1,5 @@
 import React, { useState } from "react";    // useState hook
-import './Tasks.css';                       // Created a CSS file instead
+import './Todos.css';                       // Created a CSS file instead
 import './App.css';                         
 import {DatePicker, Space} from 'antd';     
 import {Tooltip} from 'antd';               

@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css';
-import Item from './Item';
+import ItemList from './ItemList';
 
 
 export default function Tasklist() {
